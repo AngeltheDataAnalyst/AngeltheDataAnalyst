@@ -13,8 +13,15 @@ Microsoft Excel
 Machine Learning (Learning)
 Certifications
 Higher Certificate in Data Analytics
-Cisco Networking Academy: Data Science Essentials with Python
-Data Camp :Data Science Associate(in progress)
-Data Camp : Tableau for Data Science Associate(in progress)
+Data Engineer Associate (in progress) : DATACAMP
+Data Science Associate (in progress) : DATACAMP
+Tableau Certified Data Analyst (in progress) : DATACAMP
+Introduction to Data Science : CISCO
+Data Science :Visualizing Data and Exploring Models : ALISON
+Introduction to Data Analytics using Microsoft Power BI : ALISON
+Business Data Analytics :Strategies and Tools : ALISON
+Decoding The Brain(Nueroscience) : CURSA
+Cyber Security Masterclass : CURSA
+Java Object Oriented Programming : CURSA
 Connect With Me
-LinkedIn: www.linkedin.com/in/princess-angel-nheweyembwa
+LinkedIn:www.linkedin.com/in/angel-princess-nheweyembwa
